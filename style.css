@@ -1,0 +1,31 @@
+.container .jumbotron
+{
+    background: url('images/intro_flower.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 40px;
+}
+.para-jumbo
+{
+    color: white;
+}
+#heading
+{
+    color:white;
+}
+.name
+{
+    padding-right: 160px;
+}
+.form-table
+{
+    border:none;
+}
+input[type='text']
+{
+    width:286px;
+}
+input[type='email']
+{
+    width:286px;
+}
